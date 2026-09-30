@@ -1,0 +1,8 @@
+# Yu-Gi-Oh! Forbidden Memories ROM Suite & ISO Recompiler
+# Core requirements
+
+# Graphics and card rendering engine
+Pillow>=10.0.0
+
+# Testing framework (optional for runtime, required for test suite)
+pytest>=8.0.0
